@@ -1,0 +1,6 @@
+START TRANSACTION;
+
+UPDATE Seats SET status='LOCKED' WHERE seat_id=2;
+
+ROLLBACK;
+SELECT * FROM Seats WHERE seat_id=2;
