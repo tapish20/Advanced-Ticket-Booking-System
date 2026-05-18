@@ -1,4 +1,4 @@
-# 🎟️ Advanced Ticket Booking System
+#  Advanced Ticket Booking System
 
 ## 📚 MCA Practical Mini Project
 
@@ -53,7 +53,7 @@ Stores booking records with timestamps and booking status.
 
 ---
 
-# 🧠 Concepts Used
+#  Concepts Used
 
 🔹 Transactions  
 🔹 COMMIT & ROLLBACK  
@@ -65,7 +65,7 @@ Stores booking records with timestamps and booking status.
 
 ---
 
-# 🎯 Expected Outcomes
+#  Expected Outcomes
 
 ✔️ No double booking  
 ✔️ Safe concurrent transactions  
@@ -74,13 +74,13 @@ Stores booking records with timestamps and booking status.
 
 ---
 
-# 📸 OUTPUTS
+#  OUTPUTS
 
 Execution screenshots and outputs are available in the `OUTPUTS` folder.
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 💻 SQL  
 💻 MySQL / PostgreSQL  
@@ -89,6 +89,6 @@ Execution screenshots and outputs are available in the `OUTPUTS` folder.
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 MCA Practical Mini Project Submission
